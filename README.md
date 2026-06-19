@@ -53,4 +53,4 @@ The following single-page roadmap details the features, priority tiers, and oper
 * **Total Functional Specifications:** 20 Core Requirements
 
 ---
-_Note: For the full interactive experience including dropdown data validations for Priority/Status and automated dynamic KPI counters, please refer directly to the [Online Interactive Sheets](https://docs.google.com/spreadsheets/d/14-MKDHDJTnKodAVLWIegP1_Y3gj-s2OI/edit?usp=sharing&ouid=100774023185525105478&rtpof=true&sd=true)._
+_Note: For the full interactive experience including dropdown data validations for Priority/Status and automated dynamic KPI counters, please refer directly to the [Online Interactive Sheets (View Only)](https://docs.google.com/spreadsheets/d/14-MKDHDJTnKodAVLWIegP1_Y3gj-s2OI/preview)._
