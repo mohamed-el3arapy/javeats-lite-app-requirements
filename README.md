@@ -53,4 +53,4 @@ The following single-page roadmap details the features, priority tiers, and oper
 * **Total Functional Specifications:** 20 Core Requirements
 
 ---
-_Note: For the full interactive experience including dropdown data validations for Priority/Status and automated dynamic KPI counters, please refer directly to the [Javeats_Lite_Master_Requirements_Matrix_V3.xlsx](Javeats_Lite_Master_Requirements_Matrix_V3.xlsx) spreadsheet hosted inside this repository._
+_Note: For the full interactive experience including dropdown data validations for Priority/Status and automated dynamic KPI counters, please refer directly to the [Javeats_Lite_Master_Requirements_Matrix.xlsx](Javeats_Lite_Master_Requirements_Matrix.xlsx) spreadsheet hosted inside this repository._
